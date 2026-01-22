@@ -1,5 +1,5 @@
 ---
-name: claude-md-bp
+name: claude-md-bp-context
 description: Audit CLAUDE.md for best practices. 18-point checklist.
 ---
 
