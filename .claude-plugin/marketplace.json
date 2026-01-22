@@ -6,11 +6,13 @@
   },
   "metadata": {
     "description": "Audit CLAUDE.md for best practices. 18-point checklist.",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
-  "plugins": [{
-    "name": "gsd",
-    "source": "./",
-    "description": "Audit CLAUDE.md for best practices. 18-point checklist."
-  }]
+  "plugins": [
+    {
+      "name": "gsd",
+      "source": "./",
+      "description": "Audit CLAUDE.md for best practices. 18-point checklist."
+    }
+  ]
 }

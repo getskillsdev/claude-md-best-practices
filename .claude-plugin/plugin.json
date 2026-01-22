@@ -1,7 +1,7 @@
 {
   "name": "gsd",
   "description": "Audit CLAUDE.md for best practices. 18-point checklist.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "getskillsdev"
   }
