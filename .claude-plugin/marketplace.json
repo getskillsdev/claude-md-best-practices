@@ -1,0 +1,16 @@
+{
+  "name": "claude-md-best-practices",
+  "owner": {
+    "name": "getskillsdev",
+    "url": "https://github.com/getskillsdev"
+  },
+  "metadata": {
+    "description": "Audit CLAUDE.md for best practices. 18-point checklist.",
+    "version": "0.1.0"
+  },
+  "plugins": [{
+    "name": "gsd",
+    "source": "./",
+    "description": "Audit CLAUDE.md for best practices. 18-point checklist."
+  }]
+}
