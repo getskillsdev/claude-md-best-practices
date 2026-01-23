@@ -28,8 +28,9 @@ Sources:
 **Mode 1 (One-by-one):**
 - Create todo list with all 18 items
 - For each: mark in_progress, report findings, propose changes
-- When user approves the change, that IS confirmation - auto-advance to next item
-- Only pause if user rejects or wants to discuss
+- If user approves a file edit, that counts as confirmation - advance to next item
+- If no edit needed (item passes), still STOP and show findings before moving on
+- Never auto-advance without user interaction
 
 **Mode 2 (Summary):**
 - First, display the full checklist (all 18 items) so user knows what will be evaluated
