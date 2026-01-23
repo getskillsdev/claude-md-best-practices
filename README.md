@@ -4,7 +4,7 @@
 
 Audit CLAUDE.md for best practices. 18-point checklist.
 
-![18 Steps to better CLAUDE.md](./thumb.png)
+[![18 Steps to better CLAUDE.md](https://img.youtube.com/vi/14QQQcRWrMc/maxresdefault.jpg)](https://youtu.be/14QQQcRWrMc)
 
 Claude Code's `/init` generates a basic CLAUDE.md - but is it enough?
 
